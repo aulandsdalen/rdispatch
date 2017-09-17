@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rdispatch'
-  s.version     = '0.0.1'
+  s.version     = '0.0.1a'
   s.date        = '2017-09-17'
   s.required_ruby_version = '>=2.2'
   s.summary     = ""
